@@ -15,4 +15,6 @@ MCT Microsoft Transcript ID : 13388
     Eat-->Work;
     Work-->Sleep;
     Sleep-->Eat;
+    Eat-->Netflix;
+    Netflix-->Eat;
 ```
