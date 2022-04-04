@@ -19,6 +19,3 @@ MCT Microsoft Transcript ID : 1338871
     Eat-->Netflix;
     Netflix-->Eat;
 ```
-
-### Last Activity
-<!--START_SECTION:activity-->
