@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 💬 I am currently the cloud architect who is responsible for designs, deployments, administration, coordination and management of budgets of the Azure infrastructure. Azure pure player.
 
